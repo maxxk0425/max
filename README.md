@@ -28,7 +28,7 @@ If you use HCN for your research, please cite our papers:
   pages={107598},
   year={2023},
   publisher={Elsevier},
-  doi={10.1109/JBHI.2021.3095409}
+  doi={10.1016/j.compbiomed.2023.107598}
 }
 
 ```
