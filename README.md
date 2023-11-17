@@ -4,7 +4,7 @@
 
 We propose a novel hierarchical cumulative network (HCN), which explicitly considers the optimal similarity position with an effective Bidirectional Asymmetric Registration Module (BARM). The BARM simultaneously learns two asymmetric displacement vector fields (DVFs) to optimally warp both moving images and fixed images to their optimal similar shape along the geodesic path. Furthermore, we incorporate the BARM into a Laplacian pyramid network with hierarchical recursion, in which the moving image at the lowest level of the pyramid is warped successively for aligning to the fixed image at the lowest level of the pyramid to capture multiple DVFs. We then accumulate these DVFs and up-sample them to warp the moving images at higher levels of the pyramid to align to the fixed image of the top level. The entire system is end-to-end and jointly trained in an unsupervised manner. Extensive experiments were conducted on two public 3D Brain MRI datasets to demonstrate that our HCN outperforms both the traditional and state-of-the-art registration methods. To further evaluate the performance of our HCN, we tested it on the validation set of the MICCAI Learn2Reg 2021 challenge. Additionally, a cross-dataset evaluation was conducted to assess the generalization of our HCN. Experimental results showed that our HCN is an effective deformable registration method and achieves excellent generalization performance.
 
-<p align="center"><img width="100%" src="fig/detil.png" /></p>
+<p align="center"><img width="100%" src="HCN.png" /></p>
 
 ## Paper
 This repository provides the official pytorch implementation of HCN in the following papers:
