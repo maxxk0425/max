@@ -10,9 +10,9 @@ We propose a novel hierarchical cumulative network (HCN), which explicitly consi
 This repository provides the official pytorch implementation of HCN in the following papers:
 
 **Hierarchical cumulative network for unsupervised medical image registration** <br/> 
-[Xinke Ma](http://19951124.academic.site/?lang=en), [Yong Xia*](https://cse.seu.edu.cn/2019/0105/c23024a257502/page.htm), Jiang He, Xing Liu, Qin Liu, Huazhong Shu, [Geng Chen](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Bo Yuan](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
+[Xinke Ma](https://scholar.google.com.hk/citations?user=RT_DBEUAAAAJ&hl=zh-CN&oi=sra), [Yong Xia*](https://scholar.google.com.hk/citations?user=Usw1jeMAAAAJ&hl=zh-CN), Jiang He, Xing Liu, Qin Liu, Geng Chen,  Bo Yuan, Changyang Li. <br/>
 Northwestern Polytechnical University <br/>
-Computers in Biology and Medicine ([CBM](www.elsevier.com/locate/compbiomed)) <br/>
+Computers in Biology and Medicine ([CIBM](www.elsevier.com/locate/compbiomed)) <br/>
 [Paper](https://doi.org/10.1016/j.compbiomed.2023.107598) | [Code](https://github.com/maxxk0425/max/tree/main)
 
 ## Available implementation
